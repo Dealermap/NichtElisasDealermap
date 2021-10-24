@@ -12,3 +12,5 @@ L.marker([-7610, 6410], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 17</h3><p><a href='https://i.imgur.com/JOklVot.png' data-lightbox='image-1' data-title='CayoPerico 17'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2608.5, 2243], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>West Highway 1</h3><p><a href='https://i.imgur.com/B1JcwyT.png' data-lightbox='image-1' data-title='West Highway 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-1260, 675091], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Paleto Bay 3</h3><p><a href='https://i.imgur.com/dz8PAnv.jpg' data-lightbox='image-1' data-title='Paleto Bay 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
