@@ -8,5 +8,5 @@ L.marker([-5579.25, 2807], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Moringwood 1</h3><p><a href='https://i.imgur.com/AEjqlHg.jpg' data-lightbox='image-1' data-title='Moringwood 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7297.75, 3667.5], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 22</h3><p><a href='https://i.imgur.com/cloUVBa.png' data-lightbox='image-1' data-title='Hafen 22'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7600, 6400], {icon: cardIcon1}).addTo(map)
+L.marker([-7601, 6401], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>CayoPerico 17</h3><p><a href='https://i.imgur.com/JOklVot.png' data-lightbox='image-1' data-title='CayoPerico 17'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
