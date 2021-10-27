@@ -62,3 +62,5 @@ L.marker([-6708, 3929.75], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Rancho 2</h3><p><a href='https://i.imgur.com/EaAUZws.jpg' data-lightbox='image-1' data-title='Rancho 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6760, 4058.75], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Rancho 6</h3><p><a href='https://i.imgur.com/KBxmosq.jpg' data-lightbox='image-1' data-title='Rancho 6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5151.25, 4241.5], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Vinewood 8</h3><p><a href='https://i.imgur.com/ZceJ8YQ.png' data-lightbox='image-1' data-title='Vinewood 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
