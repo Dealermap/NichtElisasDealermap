@@ -74,3 +74,5 @@ L.marker([-3140, 3777], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Stab City 2</h3><p><a href='https://i.imgur.com/sRhNwBX.jpg' data-lightbox='image-1' data-title='Stab City 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6139, 2947], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vespucci Kanaele 1</h3><p><a href='https://i.imgur.com/ZHscr1e.png' data-lightbox='image-1' data-title='Vespucci Kanaele 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5515, 3696], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Vinewoodwest 1</h3><p><a href='https://i.imgur.com/Qygl3Wp.png' data-lightbox='image-1' data-title='Vinewoodwest 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
