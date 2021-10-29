@@ -78,3 +78,5 @@ L.marker([-5515, 3696], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewoodwest 1</h3><p><a href='https://i.imgur.com/Qygl3Wp.png' data-lightbox='image-1' data-title='Vinewoodwest 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7450, 4172], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 8</h3><p><a href='https://i.imgur.com/XPOVemC.jpg' data-lightbox='image-1' data-title='Hafen 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5683, 3184], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Rockford Hills 4</h3><p><a href='https://i.imgur.com/yQiqygc.png' data-lightbox='image-1' data-title='Rockford Hills 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
