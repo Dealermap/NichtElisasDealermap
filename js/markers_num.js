@@ -102,3 +102,7 @@ L.marker([-7430, 4302], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 7</h3><p><a href='https://i.imgur.com/cRYUdke.png' data-lightbox='image-1' data-title='Hafen 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2831, 4227], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Alamosee 2</h3><p><a href='https://i.imgur.com/k1S9FRx.png' data-lightbox='image-1' data-title='Alamosee 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-2568, 2900], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>West Highway 8</h3><p><a href='https://i.imgur.com/qlOrWW5.jpg' data-lightbox='image-1' data-title='West Highway 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5299, 1712], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Canyon 3</h3><p><a href='https://i.imgur.com/fVc31TE.png' data-lightbox='image-1' data-title='Canyon 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
