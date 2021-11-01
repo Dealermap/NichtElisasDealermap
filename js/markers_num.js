@@ -112,3 +112,5 @@ L.marker([-7333, 3743], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 21</h3><p><a href='https://i.imgur.com/RZ5L5I5.png' data-lightbox='image-1' data-title='Hafen 21'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3164, 4808], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Sandy Shores 1</h3><p><a href='https://i.imgur.com/8RTQYws.jpg' data-lightbox='image-1' data-title='Sandy Shores 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-2274.5, 3001], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Mountain 2</h3><p><a href='https://i.imgur.com/9JrjsNo.png' data-lightbox='image-1' data-title='Mountain 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
