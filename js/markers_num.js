@@ -182,7 +182,7 @@ L.marker([-3575, 3467], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Route 68 5</h3><p><a href='https://i.imgur.com/JsueZzW.jpg' data-lightbox='image-1' data-title='Route 68 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5356.75, 2663.75], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 13</h3><p><a href='https://i.imgur.com/N3eMFkM.jpg' data-lightbox='image-1' data-title='Vinewood 13'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([.3813, 2386], {icon: cardIcon4}).addTo(map)
+L.marker([-3813, 2386], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Naturschutzgebiet 2</h3><p><a href='https://i.imgur.com/PlPuyfS.png' data-lightbox='image-1' data-title='Naturschutzgebiet 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7183, 2614], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 10</h3><p><a href='https://i.imgur.com/sf1rF8v.jpg' data-lightbox='image-1' data-title='Airport 10'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
