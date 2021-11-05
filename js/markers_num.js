@@ -166,3 +166,15 @@ L.marker([-3181.25, 4348.25], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Sandy Shores 8</h3><p><a href='https://i.imgur.com/lTn9poi.png' data-lightbox='image-1' data-title='Sandy Shores 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4946.25, 3247.5], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 11</h3><p><a href='https://i.imgur.com/MPWziTV.png' data-lightbox='image-1' data-title='Vinewood 11'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5127, 5012], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Staudamm 3</h3><p><a href='https://i.imgur.com/lTbvUrz.png' data-lightbox='image-1' data-title='Staudamm 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-2340, 5204], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Grapeseed 4</h3><p><a href='https://i.imgur.com/Ha26IGc.jpg' data-lightbox='image-1' data-title='Grapeseed 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([6038, 4233], {icon: cardIcon2}).addTo(map)
+  .bindPopup("<h2>La Mesa 2</h3><p><a href='https://i.imgur.com/91jy3gl.png' data-lightbox='image-1' data-title='La Mesa 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6758, 3900], {icon: cardIcon9}).addTo(map)
+  .bindPopup("<h2>Davis 1</h3><p><a href='https://i.imgur.com/knqCBC5.jpg' data-lightbox='image-1' data-title='Davis 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6758, 4432], {icon: cardIcon2}).addTo(map)
+  .bindPopup("<h2>Cypress Flats 11</h3><p><a href='https://i.imgur.com/ukuPUHq.jpg' data-lightbox='image-1' data-title='Cypress Flats 11'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-1922, 3229], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Saegewerk 4</h3><p><a href='https://i.imgur.com/HS5Sjxg.jpg' data-lightbox='image-1' data-title='Saegewerk 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
