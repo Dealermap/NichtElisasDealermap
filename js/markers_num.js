@@ -200,3 +200,5 @@ L.marker([-7570, 6425], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>Cayo Perico 9</h3><p><a href='https://i.imgur.com/e2ItFOT.png' data-lightbox='image-1' data-title='Cayo Perico 9'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6165.75, 4317], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>La Mesa 1</h3><p><a href='https://i.imgur.com/Rz7K0wR.jpg' data-lightbox='image-1' data-title='La Mesa 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4950, 3493], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Vinewood 3</h3><p><a href='https://i.imgur.com/S96mjWL.png' data-lightbox='image-1' data-title='Vinewood 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
