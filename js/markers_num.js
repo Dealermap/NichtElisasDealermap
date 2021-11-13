@@ -252,3 +252,11 @@ L.marker([-2628.5, 5647.25], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Grapeseed 6</h3><p><a href='https://i.imgur.com/hMQQ1iD.jpg' data-lightbox='image-1' data-title='Grapeseed 6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7251.25, 2881.25], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 5</h3><p><a href='https://i.imgur.com/cpgrngq.png' data-lightbox='image-1' data-title='Airport 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-3861, 4224], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Harmony 5</h3><p><a href='https://i.imgur.com/mBHzKX6.png' data-lightbox='image-1' data-title='Harmony 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6630.75, 3866], {icon: cardIcon9}).addTo(map)
+  .bindPopup("<h2>Davis 2</h3><p><a href='https://i.imgur.com/RsgYx1k.jpg' data-lightbox='image-1' data-title='Davis 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5265.5, 3140.5], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Vinewood 10</h3><p><a href='https://i.imgur.com/zmyilWM.png' data-lightbox='image-1' data-title='Vinewood 10'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7291, 3778], {icon: cardIcon6}).addTo(map)
+  .bindPopup("<h2>Hafen 20</h3><p><a href='https://i.imgur.com/OdH2vU2.jpg' data-lightbox='image-1' data-title='Hafen 20'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
