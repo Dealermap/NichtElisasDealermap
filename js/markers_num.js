@@ -268,3 +268,7 @@ L.marker([-2302, 5019], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Grapeseed 2</h3><p><a href='https://i.imgur.com/D9wAVfu.jpg' data-lightbox='image-1' data-title='Grapeseed 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3634, 4364], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Harmony 4</h3><p><a href='https://i.imgur.com/bt9eCf7.png' data-lightbox='image-1' data-title='Harmony 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-3843.25, 2240], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Naturschutzgebiet 1</h3><p><a href='https://i.imgur.com/L9GgW64.png' data-lightbox='image-1' data-title='Naturschutzgebiet 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6341.75, 4208], {icon: cardIcon2}).addTo(map)
+  .bindPopup("<h2>La Mesa 3</h3><p><a href='https://i.imgur.com/qIspoad.jpg' data-lightbox='image-1' data-title='La Mesa 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
