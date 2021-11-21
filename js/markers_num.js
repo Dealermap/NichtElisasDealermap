@@ -272,3 +272,5 @@ L.marker([-3843.25, 2240], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Naturschutzgebiet 1</h3><p><a href='https://i.imgur.com/L9GgW64.png' data-lightbox='image-1' data-title='Naturschutzgebiet 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6341.75, 4208], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>La Mesa 3</h3><p><a href='https://i.imgur.com/qIspoad.jpg' data-lightbox='image-1' data-title='La Mesa 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-3852, 3555.5], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Route 68 1</h3><p><a href='https://i.imgur.com/WSAo1Ig.png' data-lightbox='image-1' data-title='Route 68 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
