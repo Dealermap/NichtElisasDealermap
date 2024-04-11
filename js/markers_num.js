@@ -246,7 +246,7 @@ L.marker([-7168, 3163], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 8</h3><p><a href='https://i.imgur.com/r6ngeRo.png' data-lightbox='image-1' data-title='Airport 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2810, 2226], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>West Highway 4</h3><p><a href='https://i.imgur.com/zFIfhRh.png' data-lightbox='image-1' data-title='West Highway 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-6722, 4356], {icon: cardIcon2}).addTo(map)
+L.marker([-6719.5, 4404.25], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 7</h3><p><a href='https://i.imgur.com/lmucsoU.jpg' data-lightbox='image-1' data-title='Cypress Flats 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6720, 4355], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 8</h3><p><a href='https://i.imgur.com/nFxEWUp.png' data-lightbox='image-1' data-title='Cypress Flats 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
