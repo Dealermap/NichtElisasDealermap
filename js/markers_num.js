@@ -109,7 +109,6 @@ L.marker([-2687, 2636.5], {icon: cardIcon1}).addTo(map)
 L.marker([-2432.75, 2557.25], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Canyon 5</h3><p><a href='https://i.imgur.com/3v37R7a.jpeg' data-lightbox='image-1' data-title='Canyon 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5263, 3313], {icon: cardIcon3}).addTo(map)
-L.marker([-5263, 3313], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 9</h3><p><a href='https://i.imgur.com/C8AY1Ot.jpg' data-lightbox='image-1' data-title='Vinewood 9'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7333, 3743], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 21</h3><p><a href='https://i.imgur.com/RZ5L5I5.png' data-lightbox='image-1' data-title='Hafen 21'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
