@@ -202,6 +202,8 @@ L.marker([-6615.5, 3666.5], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Davis 5</h3><p><a href='https://i.imgur.com/knqCBC5.jpg' data-lightbox='image-1' data-title='Davis 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6451, 3703.5], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Davis 6</h3><p><a href='https://i.imgur.com/gSuJxBN.jpeg' data-lightbox='image-1' data-title='Davis 6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6937.5, 3641], {icon: cardIcon9}).addTo(map)
+  .bindPopup("<h2>Davis 7</h3><p><a href='https://i.imgur.com/oYpOnTN.png' data-lightbox='image-1' data-title='Davis 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6758, 4432], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 11</h3><p><a href='https://i.imgur.com/ukuPUHq.jpg' data-lightbox='image-1' data-title='Cypress Flats 11'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-1922, 3229], {icon: cardIcon1}).addTo(map)
