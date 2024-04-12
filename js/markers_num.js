@@ -314,3 +314,5 @@ L.marker([-4079, 3038], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Great Chaparral 1</h3><p><a href='https://i.imgur.com/mXMkRGB.png' data-lightbox='image-1' data-title='Great Chaparral 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3836.5, 3616], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Great Chaparral 3</h3><p><a href='https://i.imgur.com/QXxbdOb.png' data-lightbox='image-1' data-title='Great Chaparral 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4206, 3348], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Great Chaparral 7</h3><p><a href='https://i.imgur.com/XuSQP2Z.png' data-lightbox='image-1' data-title='Great Chaparral 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
