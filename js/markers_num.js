@@ -48,6 +48,8 @@ L.marker([-7590, 6390], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>Cayo Perico 2</h3><p><a href='https://i.imgur.com/gUdHv8h.jpg' data-lightbox='image-1' data-title='Cayo Perico 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5854, 4416], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Eisenbahntunnel 3</h3><p><a href='https://i.imgur.com/shoDGaR.jpg' data-lightbox='image-1' data-title='Eisenbahntunnel 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-2958, 5451.5], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Eisenbahntunnel 2</h3><p><a href='https://i.imgur.com/ippu9jr.jpeg' data-lightbox='image-1' data-title='Eisenbahntunnel 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7605, 3935], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 15</h3><p><a href='https://i.imgur.com/vx4RVvE.jpg' data-lightbox='image-1' data-title='Hafen 15'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7702, 4355], {icon: cardIcon6}).addTo(map)
