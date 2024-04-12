@@ -82,6 +82,8 @@ L.marker([-5683, 3184], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Rockford Hills 4</h3><p><a href='https://i.imgur.com/yQiqygc.png' data-lightbox='image-1' data-title='Rockford Hills 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4438.75, 5480], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Elektrowerk 4</h3><p><a href='https://i.imgur.com/BgAnnxV.jpg' data-lightbox='image-1' data-title='Elektrowerk 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4590, 5511.25], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Elektrowerk 3</h3><p><a href='https://i.imgur.com/L8679GS.jpeg' data-lightbox='image-1' data-title='Elektrowerk 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5790, 4504], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Mirror Park 2</h3><p><a href='https://i.imgur.com/4WXImBT.jpg' data-lightbox='image-1' data-title='Mirror Park 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5053, 2850.75], {icon: cardIcon3}).addTo(map)
