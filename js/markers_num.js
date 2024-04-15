@@ -206,7 +206,7 @@ L.marker([-7244, 3096], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 7</h3><p><a href='https://i.imgur.com/SBoEtuv.jpg' data-lightbox='image-1' data-title='Airport 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3072, 3755], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Stab City 1</h3><p><a href='https://i.imgur.com/EitiR8B.png' data-lightbox='image-1' data-title='Stab City 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-6301, 3722], {icon: cardIcon5}).addTo(map)
+L.marker([-6301, 3722], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Strawberry 2</h3><p><a href='https://i.imgur.com/cDkbk2m.jpg' data-lightbox='image-1' data-title='Strawberry 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6987, 4230], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 2</h3><p><a href='https://i.imgur.com/wj8V0RR.jpg' data-lightbox='image-1' data-title='Cypress Flats 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
