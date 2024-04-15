@@ -366,3 +366,5 @@ L.marker([-1835.75, 3253.25], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Paleto Bay 5</h3><p><a href='https://i.imgur.com/b6PJjf3.jpeg' data-lightbox='image-1' data-title='Paleto Bay 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6739.25, 4103.75], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Rancho 1</h3><p><a href='https://i.imgur.com/qMe4Wny.jpeg' data-lightbox='image-1' data-title='Rancho 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5418.5, 4433.5], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Rennbahn 1</h3><p><a href='https://i.imgur.com/5GM2DEz.png' data-lightbox='image-1' data-title='Rennbahn 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
