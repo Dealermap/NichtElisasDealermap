@@ -362,3 +362,5 @@ L.marker([-6423, 3088], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>La Puerta</h3><p><a href='https://i.imgur.com/qyR5DR5.jpeg' data-lightbox='image-1' data-title='La Puerta'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-1112, 3854.75], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Paleto Bay 2</h3><p><a href='https://i.imgur.com/ueWtENx.jpeg' data-lightbox='image-1' data-title='Paleto Bay 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-1835.75, 3253.25], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Paleto Bay 5</h3><p><a href='https://i.imgur.com/b6PJjf3.jpeg' data-lightbox='image-1' data-title='Paleto Bay 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
