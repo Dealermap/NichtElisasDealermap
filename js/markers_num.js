@@ -406,3 +406,5 @@ L.marker([-2710, 2318.5], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>West Highway 2</h3><p><a href='https://i.imgur.com/AMMUCqy.png' data-lightbox='image-1' data-title='West Highway 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3162.5, 2044], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>West Highway 3</h3><p><a href='https://i.imgur.com/wR0mAr0.jpeg' data-lightbox='image-1' data-title='West Highway 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4719, 1707.5], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>West Highway 6</h3><p><a href='https://i.imgur.com/Fu8o1E7.png' data-lightbox='image-1' data-title='West Highway 6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
