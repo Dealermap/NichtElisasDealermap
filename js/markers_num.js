@@ -388,3 +388,5 @@ L.marker([-6419, 4021], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Strawberry 1</h3><p><a href='https://i.imgur.com/2EVylep.jpeg' data-lightbox='image-1' data-title='Strawberry 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4300.5, 2215.5], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Tongva Hills 1</h3><p><a href='https://i.imgur.com/XAr24nv.jpeg' data-lightbox='image-1' data-title='Tongva Hills 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4776.5, 3500.75], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Vinewood 1</h3><p><a href='https://i.imgur.com/BQiM3xu.jpeg' data-lightbox='image-1' data-title='Vinewood 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
