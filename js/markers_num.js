@@ -192,7 +192,7 @@ L.marker([-2583.25, 5424.5], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Grapeseed 5</h3><p><a href='https://i.imgur.com/MbSnko5.jpeg' data-lightbox='image-1' data-title='Grapeseed 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6888, 4028], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Rancho 3</h3><p><a href='https://i.imgur.com/vTU6hn7.jpg' data-lightbox='image-1' data-title='Rancho 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-6350, 3022], {icon: cardIcon3}).addTo(map)
+L.marker([-6340, 3025.25], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vespucci Kanaele 2</h3><p><a href='https://i.imgur.com/WpXJLY6.jpg' data-lightbox='image-1' data-title='Vespucci Kanaele 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7006, 4819], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 5</h3><p><a href='https://i.imgur.com/5ulryOy.png' data-lightbox='image-1' data-title='Cypress Flats 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
