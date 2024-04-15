@@ -216,7 +216,7 @@ L.marker([-6825, 4349], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 10</h3><p><a href='https://i.imgur.com/3rh416M.jpeg' data-lightbox='image-1' data-title='Cypress FLats 10'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2961.75, 4933.25], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Sandy Shores 2</h3><p><a href='https://i.imgur.com/lAO1viE.jpg' data-lightbox='image-1' data-title='Sandy Shores 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-3181.25, 4348.25], {icon: cardIcon4}).addTo(map)
+L.marker([-3181.25, 4348.25], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Sandy Shores 8</h3><p><a href='https://i.imgur.com/lTn9poi.png' data-lightbox='image-1' data-title='Sandy Shores 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4946.25, 3247.5], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 11</h3><p><a href='https://i.imgur.com/MPWziTV.png' data-lightbox='image-1' data-title='Vinewood 11'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
@@ -382,7 +382,7 @@ L.marker([-3105.5, 4792.5], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Sandy Shores 4</h3><p><a href='https://i.imgur.com/6jQNbDs.jpeg' data-lightbox='image-1' data-title='Sandy Shores 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2951, 5451], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Sandy Shores 5</h3><p><a href='https://i.imgur.com/03ql8xg.jpeg' data-lightbox='image-1' data-title='Sandy Shores 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-3316.5, 4790.5], {icon: cardIcon4}).addTo(map)
+L.marker([-3316.5, 4790.5], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Sandy Shores 7</h3><p><a href='https://i.imgur.com/qVb0GvN.png' data-lightbox='image-1' data-title='Sandy Shores 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6419, 4021], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Strawberry 1</h3><p><a href='https://i.imgur.com/2EVylep.jpeg' data-lightbox='image-1' data-title='Strawberry 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
