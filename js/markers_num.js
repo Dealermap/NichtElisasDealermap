@@ -370,3 +370,5 @@ L.marker([-5418.5, 4433.5], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Rennbahn 1</h3><p><a href='https://i.imgur.com/5GM2DEz.png' data-lightbox='image-1' data-title='Rennbahn 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5624.5, 4438], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Rennbahn 4</h3><p><a href='https://i.imgur.com/bG08M7l.jpeg' data-lightbox='image-1' data-title='Rennbahn 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5525.75, 3058], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Rockford Hills 3</h3><p><a href='https://i.imgur.com/Qffu944.jpeg' data-lightbox='image-1' data-title='Rockford Hills 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
