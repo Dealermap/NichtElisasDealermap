@@ -394,3 +394,5 @@ L.marker([-4993.5, 3812], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 4</h3><p><a href='https://i.imgur.com/ADuSeRC.jpeg' data-lightbox='image-1' data-title='Vinewood 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5184, 4231.5], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 7</h3><p><a href='https://i.imgur.com/JM9eVC0.jpeg' data-lightbox='image-1' data-title='Vinewood 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5441, 2861.75], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Vinewood 14</h3><p><a href='https://i.imgur.com/JRxHWFt.png' data-lightbox='image-1' data-title='Vinewood 14'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
