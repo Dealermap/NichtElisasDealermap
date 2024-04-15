@@ -360,3 +360,5 @@ L.marker([-4027.75, 3863.75], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Grand Senora Wüste 2</h3><p><a href='https://i.imgur.com/MbJcQK4.png' data-lightbox='image-1' data-title='Grand Senora Wüste 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6423, 3088], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>La Puerta</h3><p><a href='https://i.imgur.com/qyR5DR5.jpeg' data-lightbox='image-1' data-title='La Puerta'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-1112, 3854.75], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Paleto Bay 2</h3><p><a href='https://i.imgur.com/ueWtENx.jpeg' data-lightbox='image-1' data-title='Paleto Bay 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
