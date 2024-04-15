@@ -244,7 +244,7 @@ L.marker([-1922, 3229], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Saegewerk 4</h3><p><a href='https://i.imgur.com/HS5Sjxg.jpg' data-lightbox='image-1' data-title='Saegewerk 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3575, 3467], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Route 68 5</h3><p><a href='https://i.imgur.com/JsueZzW.jpg' data-lightbox='image-1' data-title='Route 68 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5356.75, 2663.75], {icon: cardIcon3}).addTo(map)
+L.marker([-5356.75, 2663.75], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Vinewood 13</h3><p><a href='https://i.imgur.com/N3eMFkM.jpg' data-lightbox='image-1' data-title='Vinewood 13'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3813, 2386], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Naturschutzgebiet 2</h3><p><a href='https://i.imgur.com/PlPuyfS.png' data-lightbox='image-1' data-title='Naturschutzgebiet 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
@@ -396,7 +396,7 @@ L.marker([-5184, 4231.5], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 7</h3><p><a href='https://i.imgur.com/JM9eVC0.jpeg' data-lightbox='image-1' data-title='Vinewood 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5441, 2861.75], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Vinewood 14</h3><p><a href='https://i.imgur.com/JRxHWFt.png' data-lightbox='image-1' data-title='Vinewood 14'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5278.25, 2272.75], {icon: cardIcon3}).addTo(map)
+L.marker([-5278.25, 2272.75], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Vinewood 15</h3><p><a href='https://i.imgur.com/GLfSTBX.png' data-lightbox='image-1' data-title='Vinewood 15'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5352.5, 3940.5], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Vinewood Mitte 1</h3><p><a href='https://i.imgur.com/v5XdYGC.png' data-lightbox='image-1' data-title='Vinewood 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
