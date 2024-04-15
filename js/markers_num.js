@@ -256,7 +256,7 @@ L.marker([-4513, 5560], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Elektrowerk 2</h3><p><a href='https://i.imgur.com/hq7B9ed.png' data-lightbox='image-1' data-title='Elektrowerk 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7575, 6415], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>Cayo Perico 5</h3><p><a href='https://i.imgur.com/sqCxr8h.jpg' data-lightbox='image-1' data-title='Cayo Perico 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-636, 3911], {icon: cardIcon10}).addTo(map)
+L.marker([-636, 3911], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Insel 1</h3><p><a href='https://i.imgur.com/0QOPYxH.jpeg' data-lightbox='image-1' data-title='Insel 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2130.25, 2327.75], {icon: cardIcon12}).addTo(map)
   .bindPopup("<h2>Insel 2</h3><p><a href='https://i.imgur.com/D8xSTwZ.jpg' data-lightbox='image-1' data-title='Insel 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
