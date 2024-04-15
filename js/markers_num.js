@@ -346,3 +346,5 @@ L.marker([-3805, 3600], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Great Chaparral 4</h3><p><a href='LINK EINFÜGEN' data-lightbox='image-1' data-title='Great Chaparral 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4206, 3348], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Great Chaparral 7</h3><p><a href='https://i.imgur.com/XuSQP2Z.png' data-lightbox='image-1' data-title='Great Chaparral 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4016.5, 3843], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Grand Senora Wüste 1</h3><p><a href='https://i.imgur.com/Vt1FjlL.png' data-lightbox='image-1' data-title='Grand Senora Wüste 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
