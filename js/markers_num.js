@@ -434,3 +434,5 @@ L.marker([-7139, 3840], {icon: cardIcon55}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 1</h3><p><a href='https://i.imgur.com/y4Fr2c8.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7010.5, 3755], {icon: cardIcon55}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 2</h3><p><a href='https://i.imgur.com/cq6UyCb.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7385.25, 3383], {icon: cardIcon55}).addTo(map)
+  .bindPopup("<h2>Hacking-Kit-Mulle 3</h3><p><a href='https://i.imgur.com/kCPy3YX.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
