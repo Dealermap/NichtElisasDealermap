@@ -428,6 +428,8 @@ L.marker([-6005.25, 3450.25], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Little Seoul 5</h3><p><a href='https://i.imgur.com/iQAZIUv.jpeg' data-lightbox='image-1' data-title='Little Seoul 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3559, 5749.5], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Davis Quartz 3</h3><p><a href='https://i.imgur.com/FQee0Rf.jpeg' data-lightbox='image-1' data-title='Davis Quartz 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-3632.25, 5748.75], {icon: cardIcon13}).addTo(map)
+  .bindPopup("<h2>Davis Quartz 2</h3><p><a href='https://i.imgur.com/W4u6RAM.jpeg' data-lightbox='image-1' data-title='Davis Quartz 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5926, 3476.75], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Little Seoul 2</h3><p><a href='https://i.imgur.com/odUL5fC.jpeg' data-lightbox='image-1' data-title='Little Seoul 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4964, 5515], {icon: cardIcon8}).addTo(map)
