@@ -434,6 +434,8 @@ L.marker([-5926, 3476.75], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Little Seoul 2</h3><p><a href='https://i.imgur.com/odUL5fC.jpeg' data-lightbox='image-1' data-title='Little Seoul 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4964, 5515], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Tataviam Bergkette 3</h3><p><a href='https://i.imgur.com/q0mEhSp.jpeg' data-lightbox='image-1' data-title='Tataviam Bergkette 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4953.5, 5476.5], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Tataviam Bergkette 2</h3><p><a href='https://i.imgur.com/cNtiMOt.png' data-lightbox='image-1' data-title='Tataviam Bergkette 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3674, 5623], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Davis Quartz 1</h3><p><a href='https://i.imgur.com/aMb2cIT.jpeg' data-lightbox='image-1' data-title='Davis Quartz 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7139, 3840], {icon: cardIcon55}).addTo(map)
