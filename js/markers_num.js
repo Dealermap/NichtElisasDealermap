@@ -453,4 +453,5 @@ L.marker([-7027.5, 3459.75], {icon: cardIcon56}).addTo(map)
 L.marker([-7298.5, 4862], {icon: cardIcon57}).addTo(map)
 L.marker([-7243.5, 4708], {icon: cardIcon57}).addTo(map)
 L.marker([-6989, 3891], {icon: cardIcon57}).addTo(map)
+L.marker([-6888, 3675], {icon: cardIcon57}).addTo(map)
 
