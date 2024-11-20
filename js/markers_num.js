@@ -454,6 +454,9 @@ L.marker([-1201.375, 3606.000], {icon: cardIcon57}).addTo(map)
   .bindPopup("<h2>Keycard Auto</h3><p><a href='https://i.imgur.com/2oxwyWW.png' data-lightbox='image-1' data-title='Keycard Auto'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-1201.375, 3606.000], {icon: cardIcon57}).addTo(map)
   .bindPopup("<h2>Keycard erstellen 1</h3><p><a href='https://i.imgur.com/eqfTd2Q.png' data-lightbox='image-1' data-title='Keycard erstellen 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([/-3332.62, 1707.000], {icon: cardIcon57}).addTo(map)
+  .bindPopup("<h2>Keycard erstellen 2</h3><p><a href='XXXXXX' data-title='Keycard erstellen 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+
 
 
 
