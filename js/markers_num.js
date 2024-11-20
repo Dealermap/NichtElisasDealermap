@@ -452,4 +452,5 @@ L.marker([-7027.5, 3459.75], {icon: cardIcon56}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 5</h3><p><a href='https://i.imgur.com/G6e0y9v.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7298.5, 4862], {icon: cardIcon57}).addTo(map)
 L.marker([-7243.5, 4708], {icon: cardIcon57}).addTo(map)
+L.marker([-6989, 3891], {icon: cardIcon57}).addTo(map)
 
