@@ -440,13 +440,13 @@ L.marker([-4953.5, 5476.5], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Tataviam Bergkette 2</h3><p><a href='https://i.imgur.com/cNtiMOt.png' data-lightbox='image-1' data-title='Tataviam Bergkette 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3674, 5623], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Davis Quartz 1</h3><p><a href='https://i.imgur.com/aMb2cIT.jpeg' data-lightbox='image-1' data-title='Davis Quartz 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7139, 3840], {icon: cardIcon55}).addTo(map)
+L.marker([-7139, 3840], {icon: cardIcon56}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 1</h3><p><a href='https://i.imgur.com/y4Fr2c8.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7010.5, 3755], {icon: cardIcon55}).addTo(map)
+L.marker([-7010.5, 3755], {icon: cardIcon56}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 2</h3><p><a href='https://i.imgur.com/cq6UyCb.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7385.25, 3383], {icon: cardIcon55}).addTo(map)
+L.marker([-7385.25, 3383], {icon: cardIcon56}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 3</h3><p><a href='https://i.imgur.com/kCPy3YX.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7639.5, 4223.5], {icon: cardIcon55}).addTo(map)
+L.marker([-7639.5, 4223.5], {icon: cardIcon56}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 4</h3><p><a href='https://i.imgur.com/DL1Oz4e.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7027.5, 3459.75], {icon: cardIcon55}).addTo(map)
+L.marker([-7027.5, 3459.75], {icon: cardIcon56}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 5</h3><p><a href='https://i.imgur.com/G6e0y9v.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
