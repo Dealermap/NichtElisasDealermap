@@ -452,11 +452,5 @@ L.marker([-7639.5, 4223.5], {icon: cardIcon56}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 4</h3><p><a href='https://i.imgur.com/DL1Oz4e.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7027.5, 3459.75], {icon: cardIcon56}).addTo(map)
   .bindPopup("<h2>Hacking-Kit-Mulle 5</h3><p><a href='https://i.imgur.com/G6e0y9v.jpeg' data-lightbox='image-1' data-title='Hacking-Kit-Mulle 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-1201.375, 3606.000], {icon: cardIcon57}).addTo(map)
-  .bindPopup("<h2>Keycard Auto</h3><p><a href='https://i.imgur.com/2oxwyWW.png' data-lightbox='image-1' data-title='Keycard Auto'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-2072.875, 2855.250], {icon: cardIcon57}).addTo(map)
-  .bindPopup("<h2>Keycard erstellen 1</h3><p><a href='https://i.imgur.com/eqfTd2Q.png' data-lightbox='image-1' data-title='Keycard erstellen 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([/-3332.62, 1707.000], {icon: cardIcon57}).addTo(map)
-  .bindPopup("<h2>Keycard erstellen 2</h3><p><a href='XXXXXX' data-title='Keycard erstellen 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
 
