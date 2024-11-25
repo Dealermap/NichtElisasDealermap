@@ -118,7 +118,7 @@ L.marker([-6452.5, 4420.75], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 13</h3><p><a href='https://i.imgur.com/RiosyCa.png' data-lightbox='image-1' data-title='Cypress Flats 13'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2005, 5713.5], {icon: cardIcon14}).addTo(map)
   .bindPopup("<h2>Mountain 6</h3><p><a href='https://i.imgur.com/jIjhXVC.jpg' data-lightbox='image-1' data-title='Mountain 6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-1646, 3920], {icon: cardIcon14}).addTo(map)
+L.marker([-1646, 3920], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Mountain 10</h3><p><a href='https://i.imgur.com/6bniCbW.png' data-lightbox='image-1' data-title='Mountain 10'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3716.5, 3182], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Route 68 3</h3><p><a href='https://i.imgur.com/lk1rqql.png' data-lightbox='image-1' data-title='Route 68 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
