@@ -335,7 +335,7 @@ L.marker([-5265.5, 3140.5], {icon: cardIcon3}).addTo(map)
 L.marker([-7291, 3778], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 20</h3><p><a href='https://i.imgur.com/OdH2vU2.jpg' data-lightbox='image-1' data-title='Hafen 20'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3627, 3956], {icon: cardIcon13}).addTo(map)
-  .bindPopup("<h2>Harmony 2</h3><p><a href='https://i.imgur.com/a3ElbJK.jpg' data-lightbox='image-1' data-title='Harmony 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Harmony 2</h3><p><a href='https://i.imgur.com/szfhAqC.png' data-lightbox='image-1' data-title='Harmony 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5454.25, 3907.5], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>Vinewood West 2</h3><p><a href='https://i.imgur.com/Ru353UQ.jpg' data-lightbox='image-1' data-title='Vinewood West 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2302, 5019], {icon: cardIcon14}).addTo(map)
