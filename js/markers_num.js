@@ -138,6 +138,8 @@ L.marker([-2584, 3798], {icon: cardIcon14}).addTo(map)
   .bindPopup("<h2>Alamosee 3</h3><p><a href='https://i.imgur.com/zhEekNt.jpeg' data-lightbox='image-1' data-title='Alamosee 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2501.5, 3694], {icon: cardIcon14}).addTo(map)
   .bindPopup("<h2>Alamosee 6</h3><p><a href='https://i.imgur.com/n9bpeZo.png' data-lightbox='image-1' data-title='Alamosee 6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-2732, 3622], {icon: cardIcon14}).addTo(map)
+  .bindPopup("<h2>Alamosee 7</h3><p><a href='https://i.imgur.com/JLaDrBd.jpeg' data-lightbox='image-1' data-title='Alamosee 7'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5299, 1712], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>West Highway 8</h3><p><a href='https://i.imgur.com/qlOrWW5.jpg' data-lightbox='image-1' data-title='West Highway 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2568, 2900], {icon: cardIcon12}).addTo(map)
