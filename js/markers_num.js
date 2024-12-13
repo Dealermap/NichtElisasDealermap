@@ -206,7 +206,7 @@ L.marker([-2820, 5543], {icon: cardIcon14}).addTo(map)
   .bindPopup("<h2>Grapeseed 5</h3><p><a href='https://i.imgur.com/krHsS7f.png' data-lightbox='image-1' data-title='Grapeseed 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2486.5, 6049], {icon: cardIcon14}).addTo(map)
   .bindPopup("<h2>Pazifik 1</h3><p><a href='https://i.imgur.com/RvuUBi6.jpeg' data-lightbox='image-1' data-title='Pazifik 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-2486.5, 6049], {icon: cardIcon14}).addTo(map)
+L.marker([-2486.5, 6049], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Pazifik 4</h3><p><a href='https://i.imgur.com/ji5XPQr.png' data-lightbox='image-1' data-title='Pazifik 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3377, 1657], {icon: cardIcon12}).addTo(map)
   .bindPopup("<h2>Pazifik 5</h3><p><a href='https://i.imgur.com/As9nOGY.png' data-lightbox='image-1' data-title='Pazifik 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
