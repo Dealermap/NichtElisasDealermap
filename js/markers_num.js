@@ -384,8 +384,8 @@ L.marker([-4058.75, 3864.5], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Grand Senora Wüste 3</h3><p><a href='https://i.imgur.com/Lf2zl33.jpeg' data-lightbox='image-1' data-title='Grand Senora Wüste 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3568, 4615], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Grand Senora Wüste 5</h3><p><a href='https://i.imgur.com/tnNMhZF.png' data-lightbox='image-1' data-title='Grand Senora Wüste 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-6423, 3088], {icon: cardIcon5}).addTo(map)
-  .bindPopup("<h2>La Puerta</h3><p><a href='https://i.imgur.com/qyR5DR5.jpeg' data-lightbox='image-1' data-title='La Puerta'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6335.5, 3182], {icon: cardIcon5}).addTo(map)
+  .bindPopup("<h2>La Puerta 1</h3><p><a href='https://i.imgur.com/idElcn1.png' data-lightbox='image-1' data-title='La Puerta 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6693, 3336], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>La Puerta 4</h3><p><a href='https://i.imgur.com/C7Nq4JK.png' data-lightbox='image-1' data-title='La Puerta 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-865, 3818], {icon: cardIcon1}).addTo(map)
