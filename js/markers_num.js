@@ -44,6 +44,8 @@ L.marker([-1260, 3748.5], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Paleto Bay 3</h3><p><a href='https://i.imgur.com/dz8PAnv.jpg' data-lightbox='image-1' data-title='Paleto Bay 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-1399, 3096], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Paleto Forrest 1</h3><p><a href='https://i.imgur.com/3rJrj9J.png' data-lightbox='image-1' data-title='Paleto Forrest 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-1489, 3153], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Paleto Forrest 2</h3><p><a href='https://i.imgur.com/rkoYch2.png' data-lightbox='image-1' data-title='Paleto Forrest 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7490.25, 4441], {icon: cardIcon11}).addTo(map)
   .bindPopup("<h2>Hafen 6</h3><p><a href='https://i.imgur.com/XbYFLQF.jpeg' data-lightbox='image-1' data-title='Hafen 6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3825, 3929], {icon: cardIcon13}).addTo(map)
