@@ -432,6 +432,8 @@ L.marker([-3818.5, 2856], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Route 68 4</h3><p><a href='https://i.imgur.com/WFvT1qk.png' data-lightbox='image-1' data-title='Route 68 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3759, 2786], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Route 68 9</h3><p><a href='https://i.imgur.com/wAHtXkg.png' data-lightbox='image-1' data-title='Route 68 9'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-3426.5, 2695], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Fort Zancudo 1</h3><p><a href='https://i.imgur.com/Q2yll1P.png' data-lightbox='image-1' data-title='Fort Zancudo 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3144.5, 4676], {icon: cardIcon13}).addTo(map)
   .bindPopup("<h2>Sandy Shores 3</h3><p><a href='https://i.imgur.com/ip9frPB.jpeg' data-lightbox='image-1' data-title='Sandy Shores 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3105.5, 4792.5], {icon: cardIcon13}).addTo(map)
