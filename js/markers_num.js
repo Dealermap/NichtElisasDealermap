@@ -138,7 +138,7 @@ L.marker([-1646, 3920], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Mountain 10</h3><p><a href='https://i.imgur.com/6bniCbW.png' data-lightbox='image-1' data-title='Mountain 10'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3716.5, 3182], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Route 68 3</h3><p><a href='https://i.imgur.com/lk1rqql.png' data-lightbox='image-1' data-title='Route 68 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-6277.75, 4627.75], {icon: cardIcon8}).addTo(map)
+L.marker([-6277.75, 4627.75], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Mirror Park 3</h3><p><a href='https://i.imgur.com/H4gEPWI.png' data-lightbox='image-1' data-title='Mirror Park 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7490, 6380], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>Cayo Perico 6</h3><p><a href='https://i.imgur.com/p05GwoF.jpg' data-lightbox='image-1' data-title='Cayo Perico 6'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
