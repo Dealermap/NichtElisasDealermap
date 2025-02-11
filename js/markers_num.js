@@ -356,8 +356,8 @@ L.marker([-6720, 4355], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 8</h3><p><a href='https://i.imgur.com/nFxEWUp.png' data-lightbox='image-1' data-title='Cypress Flats 8'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5681, 2979], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Rockford Hills 2</h3><p><a href='https://i.imgur.com/Jxc1Nli.png' data-lightbox='image-1' data-title='Rockford Hills 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-1020, 3839], {icon: cardIcon1}).addTo(map)
-  .bindPopup("<h2>Paleto Bay 1</h3><p><a href='https://i.imgur.com/bGgQgI1.png' data-lightbox='image-1' data-title='Paleto Bay 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-897.5, 3865], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Paleto Bay 1</h3><p><a href='https://i.imgur.com/dSiaLt2.png' data-lightbox='image-1' data-title='Paleto Bay 1'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-1466, 5457], {icon: cardIcon14}).addTo(map)
   .bindPopup("<h2>Mountain 5</h3><p><a href='https://i.imgur.com/oEYsyJ3.jpg' data-lightbox='image-1' data-title='Mountain 5'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5833.5, 3515.75], {icon: cardIcon5}).addTo(map)
