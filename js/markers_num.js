@@ -524,6 +524,8 @@ L.marker([-5926, 3476.75], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Little Seoul 2</h3><p><a href='https://i.imgur.com/odUL5fC.jpeg' data-lightbox='image-1' data-title='Little Seoul 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4964, 5515], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Tataviam Bergkette 3</h3><p><a href='https://i.imgur.com/q0mEhSp.jpeg' data-lightbox='image-1' data-title='Tataviam Bergkette 3'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5212, 5463], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Tataviam Bergkette 4</h3><p><a href='https://i.imgur.com/aWT2alY.png' data-lightbox='image-1' data-title='Tataviam Bergkette 4'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4953.5, 5476.5], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Tataviam Bergkette 2</h3><p><a href='https://i.imgur.com/EpLbJlJ.png' data-lightbox='image-1' data-title='Tataviam Bergkette 2'>Open In-Game Screenshot</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5652, 5431], {icon: cardIcon8}).addTo(map)
